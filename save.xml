@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>1420471357888</comment>
+<entry key="3,7">2</entry>
+<entry key="1,1">1</entry>
+<entry key="3,5">2</entry>
+<entry key="3,3">1</entry>
+<entry key="5,7">2</entry>
+<entry key="3,1">1</entry>
+<entry key="5,5">2</entry>
+<entry key="7,7">2</entry>
+<entry key="5,1">k1</entry>
+<entry key="7,5">2</entry>
+<entry key="7,1">1</entry>
+<entry key="player_1_name">David</entry>
+<entry key="0,6">2</entry>
+<entry key="0,2">1</entry>
+<entry key="2,6">2</entry>
+<entry key="player_2_name">Paul</entry>
+<entry key="0,0">1</entry>
+<entry key="2,4">2</entry>
+<entry key="4,6">2</entry>
+<entry key="2,0">1</entry>
+<entry key="4,2">1</entry>
+<entry key="6,6">2</entry>
+<entry key="4,0">1</entry>
+<entry key="currentPlayer">1</entry>
+<entry key="6,2">1</entry>
+<entry key="6,0">1</entry>
+<entry key="1,7">2</entry>
+</properties>
